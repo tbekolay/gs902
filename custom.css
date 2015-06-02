@@ -1,0 +1,94 @@
+.rendered_html h1 {
+    font-size: 380%;
+}
+
+.rendered_html h2 {
+    font-size: 300%
+}
+
+.rendered_html h3 {
+    font-size: 190%;
+}
+
+.rendered_html ol, .rendered_html ul {
+    font-size: 160%;
+    line-height: 120%;
+    margin-left: 5em;
+}
+
+.rendered_html ol, .rendered_html li {
+    padding-bottom: 12px;
+}
+
+pre.push-right {
+    margin-left: 8em;
+}
+
+div.MathJax_Display {
+    font-size: 160%;
+    line-height: 120%;
+}
+
+div.prompt {
+    display: none;
+}
+
+div.input_area, div.output_area {
+    margin-left: 5em;
+    margin-right: 5em;
+    font-size: 110%;
+}
+
+div.output_subarea {
+    max-width: 100%;
+}
+
+a.anchor-link {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+.reveal p.center {
+    text-align: center;
+}
+
+.reveal img.inline {
+    display: inline;
+    vertical-align: middle;
+}
+
+.reveal img.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.reveal blockquote {
+    margin-left: auto;
+    margin-right: auto;
+    font-style: normal;
+    box-shadow: none;
+}
+
+.reveal blockquote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-family: "Helvetica Nueu";
+    font-size: 4em;
+    position: absolute;
+    left: -10px;
+    top: 20px;
+    color: #7a7a7a;
+}
+
+.reveal blockquote p {
+    margin-left: 2em;
+}
+
+div.text_cell_render {
+    padding-top: 0em;
+    padding-bottom: 0em;
+}

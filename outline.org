@@ -1,0 +1,149 @@
+* Title
+What MOOCs can teach us about teaching
+* Abstract
+Massive open online courses (MOOCs) have emerged as an intriguing
+alternative to traditional university classes. While their role in
+post-secondary education remains unclear, I will show that MOOCs have
+accelerated education research by providing platforms that collect
+large amounts of data on easily anonymized students. I will show
+examples of recent studies using these large data sets, and provide
+possible future directions for MOOC-based education research.
+* Introduction
+- Cerf, 2013
+- Cooper & Sahami, 2013
+** Rise of MOOCs
+- Barber, Donnelly & Rizvi, 2013
+- Mazoue, 2013
+- Pappano, 2012
+** Fall of MOOCs
+- Clow, 2013
+- Rhoads, Berdan & Toven-Lindsey, 2013
+- Ross, Sinclair, Knox, Bayne & Macleod, 2014
+** Usefulness as research platform
+- We see students in the wild; i.e., those that are internally motivated,
+  as there are few external factors
+- Reich, 2015
+* Literature Review
+Other lit reviews:
+- Yousef, Chatti, Schroder, Wosnitza & Jakobs, 2014
+- Gasevic, Kovanovic, Joksimovic & Siemens, 2014
+- Bozkurt, Akgun-Ozbek et al., 2015
+** Adamopoulos, 2013
+- Professor the most important factor in whether students finish MOOC
+** Wen, Yang & Rosé, 2014
+- Negative sentiment is correlated with dropout rate
+** Jiang, Williams, Warschauer, He & O'Dowd, 2014
+- Low prep students outperformed those with existing credentials
+** Colvin, Champaign, Liu, Zhou, Fredericks & Pritchard, 2014
+- Measured improvement, for online and offline
+** Champaign, Fredericks, Colvin, Seaton, Liu & Pritchard, 2014
+- Negative correlation between skill and resource use
+- Checkpoing questions correalte more strongly with relative improvement
+** Belanger & Thornton, 2013
+- Loads of data
+** Yudelson, Hosseini, Vihavainen & Brusilovsky, 2014
+- Building models of student code
+** Najafi, Evans & Federico, 2014
+- Integration, control groups
+** Heutte, Kaplan, Fenouillet, Caron, & Rosselle, 2014
+- Users come in sporadically
+** Kizilcec, Piech & Schneider, 2013
+- Different types of learners (auditors especially)
+** Guo, Kim & Rubin, 2014
+- Video lectures should be ~6 mins or less (and lots more)
+** Huang, Dasgupta, Ghosh, Manning & Sanders, 2014
+- Superposters!
+** Robinson, 2015
+- Text analysis
+* Discussion
+** Teachers need to be data literate
+Bad examples:
+- Bell, 2011
+- Kop, Fournier & Mak, 2011
+- deWaard, Abajian, Gallagher, Hogue, Keskin, Koustropoulos & Rodriguez, 2011
+Other people recommending this:
+- Mahraj, 2012
+** Ethical implications of collecting data
+- Esposito, 2012
+** We should still do interviews etc., not just rely on data
+- Reich talk
+- Mackness, 2010
+* Conclusions / Recommendations
+* Bibliography
+- Adamopoulos, 2013.
+  What makes a great MOOC? An interdisciplinary analysis of student
+  retention in online courses.
+- Barber, Donnelly & Rizvi, 2013.
+  An avalanche is coming: Higher education and the revolution ahead.
+- Belanger & Thornton, 2013.
+  Bioelectricity: A quantitative approach
+- Bell, 2011.
+  Connectivism: Its Place in Theory-Informed Research and
+  Innovation in Technology-Enabled Learning
+- Bozkurt, Akgun-Ozbek et al., 2015.
+  Trends in Distance Education Research: A Content Analysis
+  of Journals 2009-2013
+- Cerf, 2013.
+  Running AMOOC
+- Champaign, Fredericks, Colvin, Seaton, Liu & Pritchard, 2014
+  Correlating Skill and Improvement in 2 MOOCs with a Student’s Time on Tasks
+- Clow, 2013.
+  MOOCs and the funnel of participation
+- Colvin, Champaign, Liu, Zhou, Fredericks & Pritchard, 2014.
+  Learning in an Introductory Physics MOOC: All Cohorts Learn Equally,
+  Including an On-Campus Class
+- Cooper & Sahami, 2013.
+  Reflections on Stanford's MOOCs
+- deWaard, Abajian, Gallagher, Hogue, Keskin, Koustropoulos & Rodriguez, 2011.
+  Using mLearning and MOOCs to Understand Chaos, Emergence,
+  and Complexity in Education
+- Esposito, 2012.
+  Research ethics in emerging forms of online learning:
+  issues arising from a hypothetical study on a MOOC
+- Gasevic, Kovanovic, Joksimovic & Siemens, 2014.
+  Where is Research on Massive Open Online Courses Headed?
+  A Data Analysis of the MOOC Research Initiative
+- Guo, Kim & Rubin, 2014.
+  How Video Production Affects Student Engagement:
+  An Empirical Study of MOOC Videos
+- Heutte, Kaplan, Fenouillet, Caron, & Rosselle, 2014.
+  MOOC User Persistence: Lesssons from French Educational Policy
+  Adoption and Deployment of a Pilot Course
+- Huang, Dasgupta, Ghosh, Manning & Sanders, 2014.
+  Superposter behavior in MOOC forums
+- Jiang, Williams, Warschauer, He & O'Dowd, 2014.
+  Influence of Incentives on Performance in a Pre-College Biology MOOC
+- Kizilcec, Piech & Schneider, 2013.
+  Deconstructing Disengagement: Analyzing Learner Subpopulations in
+  Massive Open Online Courses
+- Kop, Fournier & Mak, 2011.
+  A Pedagogy of Abundance or a Pedagogy to Support Human Beings?
+  Participant Support on Massive Open Online Courses
+- Mackness, 2010.
+  The Ideals and Reality of Participating in a MOOC
+- Mahraj, 2012.
+  Using Information Expertise to Enhance Massive Open Online Courses
+- Mazoue, 2013.
+  The MOOC Model: Challenging Traditional Education
+- Najafi, Evans & Federico, 2014.
+  MOOC Integration into Secondary School Courses
+- Pappano, 2012.
+  The Year of the MOOC
+- Reich, 2015.
+  Rebooting MOOC Research
+- Rhoads, Berdan & Toven-Lindsey, 2013.
+  The Open Courseware Movement in Higher Education:
+  Unmasking Power and Raising Questions about the
+  Movement's Democratic Potential
+- Robinson, 2015.
+  Exploring Class Discussions from a Massive Open Online Course (MOOC)
+  on Cartography
+- Ross, Sinclair, Knox, Bayne & Macleod, 2014.
+  Teacher Experiences and Academic Identity:
+  The Missing Components of MOOC Pedagogy
+- Wen, Yang & Rosé, 2014.
+  Sentiment Analysis in MOOC Discussion Forums: What does it tell us?
+- Yousef, Chatti, Schroder, Wosnitza & Jakobs, 2014.
+  MOOCs: A Review of the State-of-the-Art
+- Yudelson, Hosseini, Vihavainen & Brusilovsky, 2014.
+  Investigating Automated Student Modeling in a Java MOOC
